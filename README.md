@@ -1,7 +1,7 @@
 # Pyber
-MadPlotLibs homework for 10/27/18
 
-This folder includes an analysis of hypothetical Uber driver and rider data.   
+This project converts hypothetical rider and driver ridesharing data stored in csv format into useful and insightful grapsh using Python, Pandas, Matplotlib and Numpy.
+
 
 pyber_starter_final - Python code to read the data, compile it and output into 4 charts.
 
