@@ -1,6 +1,6 @@
 # Pyber
 
-This project converts hypothetical rider and driver ridesharing data stored in csv format into useful and insightful grapsh using Python, Pandas, Matplotlib and Numpy.
+This project converts hypothetical rider and driver ridesharing data stored in csv format into useful and insightful graphs using Python, Pandas, Matplotlib and Numpy.
 
 
 pyber_starter_final - Python code to read the data, compile it and output into 4 charts.
