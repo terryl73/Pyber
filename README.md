@@ -1,9 +1,8 @@
 # Pyber
 
-This project converts hypothetical rider and driver ridesharing data stored in csv format into useful and insightful graphs using Python, Pandas, Matplotlib and Numpy.
+This project converts hypothetical rider and driver ridesharing data stored in csv format into useful and insightful graphs using Python, Pandas, Matplotlib and Numpy.  Below is a list of each file and its purpose.
 
-
-pyber_starter_final - Python code to read the data, compile it and output into 4 charts.
+pyber_starter_final - Code to read the data, compile it and output into 4 charts using the libraries listed above.
 
 Pie_Drivers, Pie_Fares, Pie_Rides - Pie charts summarizing data for drivers, fares and rides.
 
